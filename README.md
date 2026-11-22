@@ -30,3 +30,4 @@ The framework was comprehensively evaluated to test both its specialized accurac
 ## ✅ Conclusion
 
 The results demonstrate strong performance compared to existing state-of-the-art methods, highlighting the robustness and practical viability of touchless fingerprint authentication for real-world and mobile applications.
+
